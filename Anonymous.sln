@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AnonymousServer", "server\src\AnonymousServer.vcproj", "{9A625229-5C2A-3001-8B58-76131002C605}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AnonymousClient", "client\src\AnonymousClient.vcproj", "{C578511C-1ECA-3357-8AB7-C1DA997AD867}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A625229-5C2A-3001-8B58-76131002C605}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A625229-5C2A-3001-8B58-76131002C605}.Debug|Win32.Build.0 = Debug|Win32
+		{9A625229-5C2A-3001-8B58-76131002C605}.Release|Win32.ActiveCfg = Release|Win32
+		{9A625229-5C2A-3001-8B58-76131002C605}.Release|Win32.Build.0 = Release|Win32
+		{C578511C-1ECA-3357-8AB7-C1DA997AD867}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C578511C-1ECA-3357-8AB7-C1DA997AD867}.Debug|Win32.Build.0 = Debug|Win32
+		{C578511C-1ECA-3357-8AB7-C1DA997AD867}.Release|Win32.ActiveCfg = Release|Win32
+		{C578511C-1ECA-3357-8AB7-C1DA997AD867}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

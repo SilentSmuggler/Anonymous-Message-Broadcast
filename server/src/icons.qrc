@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>icons/Acrobat.png</file>
+        <file>icons/AIM.png</file>
+        <file>icons/App Store.png</file>
+        <file>icons/Calculator.png</file>
+        <file>icons/Calender.png</file>
+        <file>icons/Call.png</file>
+        <file>icons/Camera.png</file>
+        <file>icons/Chat.png</file>
+        <file>icons/Clock.png</file>
+        <file>icons/Customize.png</file>
+        <file>icons/Delicious.png</file>
+        <file>icons/Facebook.png</file>
+        <file>icons/Flickr.png</file>
+        <file>icons/Games.png</file>
+        <file>icons/Google.png</file>
+        <file>icons/Install.png</file>
+        <file>icons/IP.png</file>
+        <file>icons/iPod.png</file>
+        <file>icons/iradio.png</file>
+        <file>icons/iTunes.png</file>
+        <file>icons/LastFm.png</file>
+        <file>icons/Linkedin.png</file>
+        <file>icons/Mail.png</file>
+        <file>icons/Maps.png</file>
+        <file>icons/Memory.png</file>
+        <file>icons/Notes.png</file>
+        <file>icons/Photos.png</file>
+        <file>icons/qt-logo.png</file>
+        <file>icons/RSS.png</file>
+        <file>icons/Safari.png</file>
+        <file>icons/Settings.png</file>
+        <file>icons/Skype.png</file>
+        <file>icons/Sms.png</file>
+        <file>icons/Stock.png</file>
+        <file>icons/Twitter.png</file>
+        <file>icons/VLC.png</file>
+        <file>icons/Weather.png</file>
+        <file>icons/WLM.png</file>
+        <file>icons/Wordpress.png</file>
+        <file>icons/Yahoo.png</file>
+        <file>icons/Youtube.png</file>
+    </qresource>
+</RCC>
